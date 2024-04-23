@@ -32,4 +32,4 @@ The trimmed data is intended to focus just on the increase in emission output by
 ## Potential
 Ideally this data can be used in climate research and examination. The data shows a clear upward trend and is able to smoothly visualize the exponential increase in co2 emissions by the US.
 
-![data-viz](USA-Co2/data/visualization)
+![data-viz](data/txm5V-us-co2-growth-by-percentage(1).png)
