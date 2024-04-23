@@ -30,6 +30,6 @@ Variables in the original data include:
 The trimmed data is intended to focus just on the increase in emission output by the United States. The only variable contained is "Percentage Increase" to give a clear frame of reference on the proportion of growth.
 
 ## Potential
-Ideally this data can be used in climate research and examination. The data shows a clear upward trend and is able to smoothly visualize the exponential increase in co2 emissions by the US.
+Ideally this data can be used in climate research and examination. Common understanding is thar Co2 emissions have increased over time, however the data tells a slightly different story. Isolating and visualizaing data in this manner allows us to identify trends accuratley and make more educated hypotheses.
 
 ![data-viz](data/txm5V-us-co2-growth-by-percentage.png)
