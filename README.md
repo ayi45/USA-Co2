@@ -2,7 +2,7 @@
 This repository contains the percentage increase of carbon dioxide emissions in the United States from years 1800 to 2022.
 
 ## Origin
-The base data comes from https://ourworldindata.org/energy Our World in Data. The base data contains data on all nations and all emissions regarding co2. 
+The base data comes from [Our World in Data](https://ourworldindata.org/energy) The base data contains data on all nations and all emissions regarding co2. 
 
 Variables in the original data include:
 * country
