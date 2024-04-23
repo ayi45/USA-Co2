@@ -37,3 +37,6 @@ Inside this repository there are two files and one folder with three files withi
 
 ![data-viz](data/txm5V-us-co2-growth-by-percentage.png)
 This visualization was made with [datawrapper](https://app.datawrapper.de/)
+
+### Thanks to our Contributors
+Me cuz im awesome
