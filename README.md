@@ -36,4 +36,4 @@ Ideally this data can be used in climate research and examination. Common unders
 Inside this repository there are two files and one folder with three files within it. Aside from this, the other folder titled "Google CoLab Documentation" contains the documentation of how the original data was manipulated. Within the folder "data" there are three folders. "USA_co2_prct.csv" contains the manipulated data from the original set. "owid-co2-data.csv" contains the original data set from Our World in Data. "data/txm5V-us-co2-growth-by-percentage.png" Contains the visualization of the manipulated data, also seen below.
 
 ![data-viz](data/txm5V-us-co2-growth-by-percentage.png)
-This visualization was made with ! [datawrapper](https://app.datawrapper.de/)
+This visualization was made with [datawrapper](https://app.datawrapper.de/)
